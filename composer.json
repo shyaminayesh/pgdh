@@ -1,0 +1,15 @@
+{
+    "name": "shyaminayesh/pgdh",
+    "description": "A simple wrapper to manipulate images using PHP-GD",
+    "authors": [
+        {
+            "name": "Shyamin Ayesh",
+            "homepage": "https://shyamin.com"
+        }
+    ],
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://shyamin.com/",
+    "autoload": {
+        "files": ["pgdh.class.php"]
+    }
+}
