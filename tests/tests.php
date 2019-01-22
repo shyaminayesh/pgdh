@@ -7,7 +7,7 @@ ini_set('display_errors', 1);
 include_once __DIR__.'/../pgdh.class.php';
 
 // INSTANCE
-$pgdh = new pgdh( 'resources/1.jpg');
+$pgdh = new pgdh( __DIR__.'/resources/1.jpg');
 
 echo "\nDONE\n\n";
 
