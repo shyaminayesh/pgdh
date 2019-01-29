@@ -5,7 +5,7 @@
  *
  * PGDH - A simple wrapper to manipulate images using PHP-GD
  *
- * @author      Sean Nieuwoudt (https://twitter.com/shyaminayesh)
+ * @author      Shyamin Ayesh (https://twitter.com/shyaminayesh)
  * @copyright   Copyright (c) 2019 Shyamin Ayesh
  *
  */
